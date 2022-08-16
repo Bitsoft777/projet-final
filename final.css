@@ -33,3 +33,18 @@
     background-color: #1ABC9C; 
     color: fff; 
 }
+footer {
+    display:block;                /* Transformation en block */
+    min-width: 120px;             /* Largeur minimale des liens */
+    background-color: #1ABC9C; 
+    color: fff; 
+}
+.content{
+    width: 80%;
+    min-width: 400px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.sun{
+    width: 30%;
+}
